@@ -1,0 +1,52 @@
+[
+  {
+    "repository": "Samsung-MSM8916/android_vendor_samsung_fortunaxx-common",
+    "target_path": "vendor/samsung/fortunaxx-common",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "Samsung-MSM8916/android_device_samsung_fortunaxx-common",
+    "target_path": "device/samsung/fortunaxx-common",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "Samsung-MSM8916/android_vendor_samsung_fortuna3g",
+    "target_path": "vendor/samsung/fortuna3g",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "HassanSardar/android_kernel_samsung_msm8916",
+    "target_path": "kernel/samsung/fortunaxx",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "externel/stlport",
+    "branch":      "cm-14.1"
+  {,
+  }
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch":      "cm-14.1"
+  {,
+  }
+    "repository": "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "cm-14.1"
+  }
+]
